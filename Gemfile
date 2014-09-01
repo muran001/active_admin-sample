@@ -18,6 +18,7 @@ gem 'activeadmin', github: 'activeadmin'
 gem 'devise'
 
 gem 'active_admin_importable'
+gem 'activeadmin-axlsx'
 
 
 
